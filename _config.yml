@@ -6,7 +6,7 @@ highlighter:      rouge
 title:            FEFFA
 tagline:          'Front-end Free-for-all'
 description:      'Front-end Free-for-all. For all things front-end development.'
-url:              
+url:              ''
 baseurl:          ''
                   # the optional subpath of your site, e.g. "/blog"
                   # NB: This applies to all pages in your Jekyll site.
